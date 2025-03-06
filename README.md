@@ -1,3 +1,7 @@
+T4 GPU Start
+python main.py --listen 0.0.0.0 --normalvram
+
+
 <div align="center">
 
 # ComfyUI
